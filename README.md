@@ -20,7 +20,7 @@ Aqui estão alguns codigos feitos usando Java:
 - [Code11](https://github.com/floro-neto/POO/tree/main/poligono)
 - [Code12](https://github.com/floro-neto/POO/tree/main/trianguloPOO)
 
-Projetos de POO / Some projects done in POO:
+## Projetos de POO / Some projects done in POO:
 
 - [Project 1](https://github.com/floro-neto/POO/tree/main/AutomoveisPOO)
 - [Project 1.1](https://github.com/floro-neto/POO/tree/main/CadernodadosPOO)
@@ -34,7 +34,7 @@ Projetos de POO / Some projects done in POO:
 - [Project 2](https://github.com/floro-neto/POO/tree/main/restauranteUni)
 - [Project 3](https://github.com/floro-neto/POO/tree/main/semaforoPOO)
 
-Sobre linguagem Java / About Java language:
+## Sobre linguagem Java / About Java language:
 
 - [About Java](https://www.sololearn.com/en/learn/courses/java-introduction)
 
