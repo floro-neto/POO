@@ -27,7 +27,8 @@ Projetos de POO / Some projects done in POO:
 - [Project 1.6](https://github.com/floro-neto/POO/tree/main/EntrCinamaPOO)
 - [Project 1.7](https://github.com/floro-neto/POO/tree/main/NotasPOO)
 - [Project 1.8](https://github.com/floro-neto/POO/tree/main/PaisesPOO)
-- [Project 2]()
+- [Project 2](https://github.com/floro-neto/POO/tree/main/restauranteUni)
+- [Project 3]()
 
 Sobre linguagem Java / About Java language:
 
