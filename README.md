@@ -1,6 +1,10 @@
 ## Codigos feitos em POO usando Java 
 ## Some codes made in Java on Object Oriented Programming class
 
+IDE que usei para Java / IDE that I used for coding in Java:
+
+- [About Eclipse](https://eclipseide.org/)
+  
 Aqui estão alguns codigos feitos usando Java:
 
 - [Code1](https://github.com/floro-neto/POO/tree/main/MenuCadastroPOO)
@@ -28,7 +32,7 @@ Projetos de POO / Some projects done in POO:
 - [Project 1.7](https://github.com/floro-neto/POO/tree/main/NotasPOO)
 - [Project 1.8](https://github.com/floro-neto/POO/tree/main/PaisesPOO)
 - [Project 2](https://github.com/floro-neto/POO/tree/main/restauranteUni)
-- [Project 3]()
+- [Project 3](https://github.com/floro-neto/POO/tree/main/semaforoPOO)
 
 Sobre linguagem Java / About Java language:
 
